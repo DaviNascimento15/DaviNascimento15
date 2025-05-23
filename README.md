@@ -1,3 +1,7 @@
+<h2 align="left">Hi 👋! My name is Davi Nst and I'm a passionate full stack web developer from Brazil 🇧🇷</h2>
+
+---
+
 # 🚀 Olá! Eu sou o **Davi Nst**!
 
 Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e React, sempre em busca de novos desafios e oportunidades para aprender e evoluir. Atualmente, estou focado em **desenvolvimento web full stack**.
@@ -31,6 +35,7 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 - Desenvolvimento de Sistemas  
 - Arquitetura e Manutenção de Computadores
 
+---
 
 ## 🌍 Vamos nos conectar!
 
@@ -40,9 +45,25 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviNascimento15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQyOGRxbTMwb29pNnJtdGY0cnBhbWZ2NjY4d3puNjZ1Z2lqeWxjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGlIM35y5IWNFifCU7/giphy.gif" alt="Working on code" />
+</div>
+
+---
+
 <img align="right" height="162" src="https://media1.giphy.com/media/xUPGcC4A6ElcqtUJck/200.webp?cid=ecf05e47rhu3kzfrgwcgj9wwjm9podh2aei7uom62wtg6pbk&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding gif" />
 
 ---
 
-### 🐍 Snake Animation  
-<img src="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/snake.svg" alt="Snake animation" /> 
+### 🟡 Pac-Man Contribution Graph  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph.svg">
+</picture>
