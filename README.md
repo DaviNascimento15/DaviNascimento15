@@ -40,8 +40,6 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 
 ---
 
-<img align="right" height="162" src="https://media1.giphy.com/media/xUPGcC4A6ElcqtUJck/200.webp?cid=ecf05e47rhu3kzfrgwcgj9wwjm9podh2aei7uom62wtg6pbk&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding gif" />
-
 ---
 
 ### 🐍 Snake Animation  
