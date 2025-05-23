@@ -23,3 +23,24 @@ Siga-me nas redes sociais e troquemos ideias!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585992003469)  
+
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: '[seu-usuário]'
+          svg_out_path: '.github/workflows/snake.svg'
