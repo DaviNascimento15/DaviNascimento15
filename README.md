@@ -37,9 +37,4 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585992003469)  
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](#) <!-- Substitua '#' pela URL do seu LinkedIn -->
-
----
-
-## 🖥️ Coding Mode  
-<img src=
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&la)]()
