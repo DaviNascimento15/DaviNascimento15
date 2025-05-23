@@ -26,8 +26,6 @@ Siga-me nas redes sociais e troquemos ideias!
 
 <img src="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/snake.svg" alt="Snake animation" />
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
