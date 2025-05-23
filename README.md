@@ -40,7 +40,7 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 
 ---
 <div align="center">
-  <img height="200" src="https://media.tenor.com/E61yvtjp5DQAAAAi/spongebob.gif"  />
+  <img height="200" src="https://th.bing.com/th/id/R.53102f99c9d67457db51f337c39d68d5?rik=d7WKAl3VsB1XCQ&pid=ImgRaw&r=0"  />
 </div>
 ---
 
