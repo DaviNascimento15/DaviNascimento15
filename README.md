@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is Davi Nst and I'm a passionate full stack web developer from Brazil 🇧🇷</h2>
-
----
-
 # 🚀 Olá! Eu sou o **Davi Nst**!
 
 Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e React, sempre em busca de novos desafios e oportunidades para aprender e evoluir. Atualmente, estou focado em **desenvolvimento web full stack**.
@@ -42,12 +38,6 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585992003469)  
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](#) <!-- Substitua '#' pela URL do seu LinkedIn -->
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviNascimento15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
 ---
 
