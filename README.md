@@ -40,7 +40,7 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 
 ---
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/[v1.Y2lkPTc5MGI3NjExOWQyOGRxbTMwb29pNnJtdGY0cnBhbWZ2NjY4d3puNjZ1Z2lqeWxjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGlIM35y5IWNFifCU7/giphy.gif](https://media.tenor.com/faLugVnYq3UAAAAi/red-eyes.gif)"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQyOGRxbTMwb29pNnJtdGY0cnBhbWZ2NjY4d3puNjZ1Z2lqeWxjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGlIM35y5IWNFifCU7/giphy.gif](https://media.tenor.com/faLugVnYq3UAAAAi/red-eyes.gif)"  />
 </div>
 ---
 
