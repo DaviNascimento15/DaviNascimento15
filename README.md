@@ -39,7 +39,7 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](#) <!-- Substitua '#' pela URL do seu LinkedIn -->
 
 ---
-
+<img src="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/snake.svg" alt="Snake animation" />
 ---
 
 ### 🐍 Snake Animation  
