@@ -33,14 +33,6 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviNascimento15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
-</div>
-
----
-
 ## 🌍 Vamos nos conectar!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==)  
@@ -49,9 +41,5 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 
 ---
 
-<img align="right" height="162" src="https://media1.giphy.com/media/xUPGcC4A6ElcqtUJck/200.webp?cid=ecf05e47rhu3kzfrgwcgj9wwjm9podh2aei7uom62wtg6pbk&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding gif" />
-
----
-
-### 🐍 Snake Animation  
-<img src="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/snake.svg" alt="Snake animation" />
+## 🖥️ Coding Mode  
+<img src=
