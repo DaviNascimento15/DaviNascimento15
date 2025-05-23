@@ -43,7 +43,7 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 ---
 
 ### 🐍 Snake Animation  
-<img src="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/snake.svg" alt="Snake animation" /> 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph.svg">
