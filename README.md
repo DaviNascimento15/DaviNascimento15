@@ -39,8 +39,9 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](#) <!-- Substitua '#' pela URL do seu LinkedIn -->
 
 ---
-<img align="right" height="162" src="https://media1.giphy.com/media/xUPGcC4A6ElcqtUJck/200.webp?cid=ecf05e47rhu3kzfrgwcgj9wwjm9podh2aei7uom62wtg6pbk&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding gif" />
-
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQyOGRxbTMwb29pNnJtdGY0cnBhbWZ2NjY4d3puNjZ1Z2lqeWxjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sGlIM35y5IWNFifCU7/giphy.gif"  />
+</div>
 ---
 
 
