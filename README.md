@@ -4,12 +4,6 @@ Sou um **desenvolvedor apaixonado** por tecnologias como Python, JavaScript e Re
 
 ---
 
-## 🔬 Áreas de Interesse
-
-💻 **Linguagens de Programação:**  
-✔️ Python  
-✔️ JavaScript
-
 🧠 **Tecnologias que utilizo:**  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
