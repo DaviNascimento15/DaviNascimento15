@@ -17,8 +17,6 @@ Atualmente, estou focado em **desenvolvimento web full stack**.
 
 ## 🌍 Vamos nos conectar!
 
-## 🌍 Vamos nos conectar!
-
 <div align="center">
   <a href="https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
