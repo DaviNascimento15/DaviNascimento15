@@ -14,13 +14,6 @@ Atualmente, estou focado em **desenvolvimento web full stack**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
 </div>
 
----
-
-## 📚 Atualmente Estudando
-- 🎓 Desenvolvimento de Sistemas  
-- 💻 Arquitetura e Manutenção de Computadores  
-
----
 
 ## 🌍 Vamos nos conectar!
 <div align="center">
