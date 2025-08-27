@@ -34,7 +34,7 @@ Atualmente, estou focado em **desenvolvimento web full stack**.
 ## 🖼️ Um toque visual
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/1f/2c/c7/1f2cc7529f1d1fd1fa4202e84a4ad9fc.jpg" height="200" alt="Imagem ilustrativa" />
+  <img src="COLOQUE_O_LINK_AQUI" height="200" alt="Imagem divertida" />
 </div>
 
 ---
