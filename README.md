@@ -3,7 +3,7 @@ Atualmente, estou focado em **desenvolvimento web full stack**.
 
 ---
 
-## ​ Tecnologias
+## 🧠 Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
@@ -15,7 +15,7 @@ Atualmente, estou focado em **desenvolvimento web full stack**.
 
 ---
 
-## ​ Vamos nos conectar!
+## 🌍 Vamos nos conectar!
 
 <div align="center">
   <a href="https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==" target="_blank">
@@ -31,11 +31,15 @@ Atualmente, estou focado em **desenvolvimento web full stack**.
 
 ---
 
+## 🖼️ Imagem
+
 <div align="center">
   <img height="180" src="https://i.pinimg.com/originals/12/1d/64/121d64382186de944184e1d652787af1.jpg" alt="Imagem escolhida" />
 </div>
 
 ---
+
+## 🕹️ Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph-dark.svg">
