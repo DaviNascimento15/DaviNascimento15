@@ -35,7 +35,6 @@ Atualmente, estou focado em **desenvolvimento web full stack**. 🚀
 
 ---
 
-## 🖼️ Um toque visual
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/73/4b/44/734b447575244d81148c33bcbcc5e9bf.jpg" height="200" alt="Imagem divertida" />
@@ -45,10 +44,7 @@ Atualmente, estou focado em **desenvolvimento web full stack**. 🚀
 
 ## 🎮 Sobre mim
 
-- 💻 Adoro resolver problemas com código  
-- 🎧 Música é meu combustível diário  
-- 🎮 Gamer nas horas vagas (e sempre upando XP 💪)  
-- 🐶 Amante dos pets (como dá pra ver pela imagem kkk)  
+- 🎮 Melhor jogador de FF atualmente (se discorda vem x1)
 - 🌍 Curioso por novas culturas e línguas  
 
 ---
