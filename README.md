@@ -7,7 +7,7 @@ Atualmente, estou focado em **desenvolvimento web full stack**. 🚀
 
 ---
 
-## 🧠 Tecnologias que domino (e amo!)
+## 🧠 Tecnologias que domino
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
