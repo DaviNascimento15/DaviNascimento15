@@ -1,18 +1,31 @@
-# Olá.
+# Olá, seja bem-vindo.
 
-Desenvolvedor focado em **JavaScript, React e Python**, com atuação em desenvolvimento **web full stack**.
+Se você chegou até aqui, provavelmente quer entender um pouco sobre quem está por trás do código.
 
-Interesse em performance, organização de código e evolução constante.
+Sou desenvolvedor com foco em **JavaScript, React e Python**, atuando em desenvolvimento **web full stack**.  
+Gosto de construir soluções organizadas, performáticas e que façam sentido a longo prazo.
 
-> Tecnologia com propósito. Execução com consistência.
+Acredito que tecnologia não é apenas sobre funcionar — é sobre resolver problemas com clareza e eficiência.
 
 ---
 
-## Stack
+## 🚀 O que você vai encontrar aqui
+
+- Projetos práticos
+- Evolução constante
+- Organização e boas práticas
+- Código pensado para ser escalável
+
+Estou sempre estudando arquitetura, performance e melhoria contínua.
+
+---
+
+## 🧠 Stack principal
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="NodeJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
@@ -20,18 +33,46 @@ Interesse em performance, organização de código e evolução constante.
 
 ---
 
-## Sobre
+## 🎯 Mentalidade
 
-- Foco em código limpo e escalável  
-- Aprendizado contínuo  
-- Interesse em arquitetura e boas práticas  
+Disciplina acima de motivação.  
+Consistência acima de intensidade.  
+Evolução acima de comparação.
 
 ---
 
-## Contribuições
+## 🕹️ Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+## 🔥 Inspiração
+
+<div align="center">
+  <img src="https://wallpapercave.com/wp/wp7842163.jpg" height="220" alt="Naruto" />
+</div>
+
+Evolução é processo.  
+Treino, erro, ajuste e melhoria contínua.
+
+---
+
+## 📱 Contato
+
+<div align="center">
+  <a href="https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5585992003469" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+---
+
+Obrigado por visitar meu perfil.
