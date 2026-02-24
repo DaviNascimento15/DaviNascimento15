@@ -1,22 +1,20 @@
 # Olá, seja bem-vindo.
 
-Se você chegou até aqui, provavelmente quer entender um pouco sobre quem está por trás do código.
+Se você chegou até aqui, provavelmente quer entender quem está por trás do código.
 
 Sou desenvolvedor com foco em **JavaScript, React e Python**, atuando em desenvolvimento **web full stack**.  
-Gosto de construir soluções organizadas, performáticas e que façam sentido a longo prazo.
+Construo soluções pensando em organização, clareza e performance.
 
-Acredito que tecnologia não é apenas sobre funcionar — é sobre resolver problemas com clareza e eficiência.
+Acredito que tecnologia bem feita é aquela que resolve problemas de forma simples e eficiente.
 
 ---
 
 ## 🚀 O que você vai encontrar aqui
 
-- Projetos práticos
-- Evolução constante
-- Organização e boas práticas
-- Código pensado para ser escalável
-
-Estou sempre estudando arquitetura, performance e melhoria contínua.
+- Projetos práticos e funcionais  
+- Evolução constante  
+- Código limpo e escalável  
+- Aplicações pensadas a longo prazo  
 
 ---
 
@@ -37,7 +35,29 @@ Estou sempre estudando arquitetura, performance e melhoria contínua.
 
 Disciplina acima de motivação.  
 Consistência acima de intensidade.  
-Evolução acima de comparação.
+Evolução contínua.
+
+---
+
+## 🤝 Vamos conversar?
+
+Se quiser trocar uma ideia sobre projetos, tecnologia ou oportunidades, pode me chamar:
+
+<div align="center">
+
+<a href="https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5585992150528" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
+
+<p align="center">
+Aberto a conexões, colaborações e novos desafios.
+</p>
 
 ---
 
@@ -48,31 +68,3 @@ Evolução acima de comparação.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-## 🔥 Inspiração
-
-<div align="center">
-  <img src="https://wallpapercave.com/wp/wp7842163.jpg" height="220" alt="Naruto" />
-</div>
-
-Evolução é processo.  
-Treino, erro, ajuste e melhoria contínua.
-
----
-
-## 📱 Contato
-
-<div align="center">
-  <a href="https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5585992003469" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
-
----
-
-Obrigado por visitar meu perfil.
