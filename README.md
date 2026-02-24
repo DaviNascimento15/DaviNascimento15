@@ -1,13 +1,14 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil!  
+# Olá.
 
-Sou um **desenvolvedor apaixonado** por tecnologias como **Python, JavaScript e React**, sempre em busca de novos desafios e oportunidades para aprender e evoluir.  
-Atualmente, estou focado em **desenvolvimento web full stack**. 🚀  
+Desenvolvedor focado em **JavaScript, React e Python**, com atuação em desenvolvimento **web full stack**.
 
-> "A tecnologia move o mundo, mas a criatividade dá direção." ✨  
+Interesse em performance, organização de código e evolução constante.
+
+> Tecnologia com propósito. Execução com consistência.
 
 ---
 
-## 🧠 Tecnologias que domino
+## Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
@@ -19,44 +20,18 @@ Atualmente, estou focado em **desenvolvimento web full stack**. 🚀
 
 ---
 
-## 🌍 Vamos nos conectar!
+## Sobre
 
-<div align="center">
-  <a href="https://www.instagram.com/dav.l_?igsh=MXJ5NXFrdm8wNGltcw==" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5585992003469" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+- Foco em código limpo e escalável  
+- Aprendizado contínuo  
+- Interesse em arquitetura e boas práticas  
 
 ---
 
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/73/4b/44/734b447575244d81148c33bcbcc5e9bf.jpg" height="200" alt="Imagem divertida" />
-</div>
-
----
-
-## 🎮 Sobre mim
-
-- 🎮 Melhor jogador de FF atualmente (se discorda vem x1)
-- 🌍 Curioso por novas culturas e línguas  
-
----
-
-## 🕹️ Contribuições no GitHub
+## Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DaviNascimento15/DaviNascimento15/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-✨ Obrigado por visitar meu perfil! Se curtiu, deixa uma ⭐ nos meus repositórios!  
